@@ -1,0 +1,2 @@
+# ignoring folders or *.file types
+*.pyc
